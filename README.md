@@ -11,3 +11,7 @@ the steering wheel and pedals) that let our code "drive" the browser.
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/77529b07-d243-4fda-bacd-caa7c0d32631" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/86427c86-d0d1-4b64-ac57-3c580212ad96" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/19827ac1-a89b-40a8-9be8-733960870e39" />
+
+
+<img width="1364" height="789" alt="Image" src="https://github.com/user-attachments/assets/93123849-5de5-4fb8-a2c8-6322d4a2a98a" />
+
